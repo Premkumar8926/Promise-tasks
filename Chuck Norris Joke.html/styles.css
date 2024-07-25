@@ -1,0 +1,23 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 600px;
+}
+
+.joke-card {
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+}
+
+.joke-text {
+    font-size: 1.5rem;
+    font-style: italic;
+    margin-bottom: 20px;
+}
+
+.btn-new-joke {
+    margin-top: 10px;
+}
